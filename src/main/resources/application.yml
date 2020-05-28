@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: consul-lab
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        healthCheckPath: /actuator/health
+        healthCheckInterval: 15s

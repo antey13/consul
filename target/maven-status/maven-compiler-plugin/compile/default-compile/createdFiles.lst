@@ -1,0 +1,5 @@
+com\company\Starter.class
+com\company\Controller.class
+com\company\StartupEventListener.class
+com\company\ConsulConfig.class
+com\company\HealthCheck.class
